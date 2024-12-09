@@ -22,12 +22,4 @@
 
 
 
-[appl and orang basketball](https://sussygamedeveloper.github.io/Scratch-Pr0jects/basketball.html)
-
-
-
-[appl and orang soccer](https://sussygamedeveloper.github.io/Scratch-Pr0jects/soccer.html)
-
-
-
 [appl and orang track](https://sussygamedeveloper.github.io/Scratch-Pr0jects/track.html)
